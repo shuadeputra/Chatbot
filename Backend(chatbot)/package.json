@@ -1,0 +1,32 @@
+{
+  "name": "backend(chatbot)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "crypto": "^1.0.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-fileupload": "^0.4.0",
+    "express-session": "^1.15.6",
+    "fs": "0.0.1-security",
+    "fs-extra": "^6.0.1",
+    "mimetype": "0.0.8",
+    "mysql": "^2.15.0",
+    "node-wit": "^5.0.0",
+    "nodemailer": "^4.6.8",
+    "pusher-js": "^4.3.1",
+    "socket.io": "^2.1.1",
+    "uniqid": "^5.0.3"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
